@@ -20,4 +20,9 @@ public class PacmanGame implements GamingConsole{
     public void right() {
         System.out.println("Pac Right");
     }
+
+    public void apply(){
+        System.out.println("Pac apply");
+
+    }
 }

@@ -1,6 +1,6 @@
 package com.example.games;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
     public static void main(String args[]){
 
         var pacGame = new PacmanGame();
